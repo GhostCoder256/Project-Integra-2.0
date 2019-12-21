@@ -1,0 +1,5 @@
+JavaAntBasic.vsz| |New basic Ant project|1|Creates a new Ant project.|{728B126F-0DE8-4775-BBBE-68D3C95DB1A3}|221|0|MyProject
+JavaAntImport.vsz| |Import Ant project|2|Imports existing build.xml file to a project.|{728B126F-0DE8-4775-BBBE-68D3C95DB1A3}|220|36|MyProject
+JavaAntImportEx.vsz| |Ant project from existing sources|3|Creates simple Ant project using existing source dirs.|{728B126F-0DE8-4775-BBBE-68D3C95DB1A3}|220|0|MyProject
+JavaMavenArchetype.vsz| |Maven archetype|4|Generates a project from Maven archetype. Specify artifact id as the project name.|{728B126F-0DE8-4775-BBBE-68D3C95DB1A3}|223|0|MyProject
+JavaMavenImport.vsz| |Import Maven project|5|Imports existing pom.xml file to a project.|{728B126F-0DE8-4775-BBBE-68D3C95DB1A3}|262|36|MyProject

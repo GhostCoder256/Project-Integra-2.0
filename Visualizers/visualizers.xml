@@ -1,0 +1,37 @@
+<Visualizers>
+    <Visualizer type="uploaded">
+        <ModuleName>pointers.printers</ModuleName>
+        <Registrator>register_pointer_printers</Registrator>
+        <Language>cpp</Language>
+    </Visualizer>
+    <Visualizer type="uploaded">
+        <ModuleName>charArrays.printers</ModuleName>
+        <Registrator>register_charArray_printers</Registrator>
+        <Language>cpp</Language>
+    </Visualizer>
+    <Visualizer type="uploaded">
+        <ModuleName>libstdcxx.v6.printers</ModuleName>
+        <Registrator>register_libstdcxx_printers</Registrator>
+        <Language>cpp</Language>
+    </Visualizer>
+    <Visualizer type="uploaded">
+        <ModuleName>qt4.printers</ModuleName>
+        <Registrator>register_qt4_printers</Registrator>
+        <Language>cpp</Language>
+    </Visualizer>
+    <Visualizer type="uploaded">
+        <ModuleName>boost.v1_40.printers</ModuleName>
+        <Registrator>register_boost_printers</Registrator>
+        <Language>cpp</Language>
+    </Visualizer>
+    <Visualizer type="uploaded">
+        <ModuleName>javaContainers.JavaContainers</ModuleName>
+        <Registrator>register_java_containers</Registrator>
+        <Language>java</Language>
+    </Visualizer>
+    <Visualizer type="uploaded">
+        <ModuleName>javaAndroid.JavaAndroid</ModuleName>
+        <Registrator>register_java_android</Registrator>
+        <Language>java</Language>
+    </Visualizer>
+</Visualizers>
